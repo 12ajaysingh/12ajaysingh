@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">"I am M.tech Integrated 2nd year student with a passion for technology, skilled in software development and problem-solving. Actively learning and building innovative projects to bridge the gap between theory and practice."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12ajaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="12ajaykumar" /> </p>
-<img align="right" alt="coding" width="200" src="image_processing20210301-3601-w1fbuc.gif">
+<img align="right" alt="coding" width="200" src="https://github.com/12ajaysingh/12ajaysingh/blob/main/working-from.gif">
 
 - 🎓 M.tech Integrated student in Noida Institute Of Engineering and Technology
 - 📫 How to reach me **ajayrandhawa8535@gmail.com**
