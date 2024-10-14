@@ -1,4 +1,4 @@
-![logo](https://github.com/Ritika-Saini28/Ritika-Saini28/blob/main/Blue%20Black%20Modern%20Computer%20Science%20Google%20Classroom%20Header.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">"I am M.tech Integrated 2nd year student with a passion for technology, skilled in software development and problem-solving. Actively learning and building innovative projects to bridge the gap between theory and practice."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-saini28&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-saini28" /> </p>
