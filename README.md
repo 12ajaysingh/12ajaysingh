@@ -1,7 +1,7 @@
-![logo]("Blue Black Modern Computer Science Google Classroom Header.png")
+![logo](https://github.com/12ajaysingh/12ajaysingh/blob/main/Blue%20Black%20Modern%20Computer%20Science%20Google%20Classroom%20Header.png)
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">"I am M.tech Integrated 2nd year student with a passion for technology, skilled in software development and problem-solving. Actively learning and building innovative projects to bridge the gap between theory and practice."</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika-saini28&label=Profile%20views&color=0e75b6&style=flat" alt="ritika-saini28" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=12ajaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="12ajaykumar" /> </p>
 <img align="right" alt="coding" width="200" src="image_processing20210301-3601-w1fbuc.gif">
 
 - 🎓 M.tech Integrated student in Noida Institute Of Engineering and Technology
@@ -35,6 +35,5 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika-saini28&show_icons=true&locale=en" alt="ajay-kumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritika-saini28&" alt="ajay_kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12ajaykumar&show_icons=true&locale=en" alt="12ajaykumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=12ajaykumar&" alt="ajay_kumar" /></p>
